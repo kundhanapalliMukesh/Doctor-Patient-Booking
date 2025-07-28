@@ -3,11 +3,11 @@
 <p align="center">
 Developed a web application for booking doctor-patient appointments.  Node.js and a preferred library or framework are used for both frontend and backend development, respectively.  Important features include setting up role-based authorization, guaranteeing secure authentication through session-based or JWT methods, and integrating Google Calendar for appointment scheduling.  Data about users and appointments will be stored in a database (such as MongoDB or PostgreSQL).  The doctor's dashboard, appointment scheduling, login, and registration must all have intuitive user interfaces on the front end.  Notifications, appointment rescheduling, and a doctor search feature are optional.The evaluation process places a strong emphasis on code readability and following best practices.  UI design is secondary to functionality.
 </p>
-<!---------
+
   <div align="center">
   <h2>Live Demo 👉 <a href="https://doctor-patient-appointment-booking.vercel.app/">Click here</a></h2>
   <h2>Backend API 👉 <a href="https://doctor-appointment-hpp0.onrender.com/">Click here</a></h2>
-</div>>
+</div>
 
 
 <h2 align="center">Technologies Used</h2>
